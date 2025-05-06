@@ -13,7 +13,7 @@ The goal is to train the model to recognise and describe actions, objects, and t
 Install the required Python packages:
 
 ```bash
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 
 Running the training script, the required argument is the path to the dataset::
